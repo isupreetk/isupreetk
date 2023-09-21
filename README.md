@@ -6,3 +6,4 @@
 - Proficient in React, JavaScript, SQL, Express, RESTful APIs.
 
 ### Languages and Tools:
+![HTML](html5.svg)
