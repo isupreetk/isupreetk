@@ -1,4 +1,8 @@
-# Hi! I'm Supreet Kaur! :hand_wave:
+# Hi! I'm Supreet Kaur! 👋
 
-An experienced software developer with 2+ years in designing and implementing dynamic web-based applications.
-Proficient in React, JavaScript, SQL, Express, RESTful APIs. :technologist:
+### About me: 
+- An Electronics and Telecommunication Engineer turned Full Stack Developer. 👩‍💻
+- Experienced Software Developer with 2+ years in designing and implementing dynamic web-based applications.
+- Proficient in React, JavaScript, SQL, Express, RESTful APIs.
+
+### Languages and Tools:
