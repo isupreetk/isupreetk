@@ -1,5 +1,8 @@
 # Hi! I'm Supreet Kaur! 👋
 
+<img src="" alt="female developer" >
+![female developer](https://github.com/isupreetk/portfolio/blob/main/assets/screenshots/github.gif?raw=true)
+
 ### About me:
 
 - An Electronics and Telecommunication Engineer turned Full Stack Developer. 👩‍💻
