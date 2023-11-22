@@ -1,7 +1,8 @@
 # Hi! I'm Supreet Kaur! 👋
 
 <img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/github.gif?raw=true" alt="female developer" >
-<!-- ![female developer](https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/github.gif?raw=true) -->
+
+<img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/linkedin_banner.png?raw=true" alt="supreet - software developer" >
 
 ### About me:
 
