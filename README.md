@@ -1,7 +1,7 @@
 # Hi! I'm Supreet Kaur! 👋
 
 <img src="" alt="female developer" >
-![female developer](https://github.com/isupreetk/portfolio/blob/main/assets/screenshots/github.gif?raw=true)
+![female developer](https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/github.gif?raw=true)
 
 ### About me:
 
