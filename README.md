@@ -8,7 +8,8 @@
 
 - An Electronics and Telecommunication Engineer turned Software Developer. 👩‍💻
 - Experienced Software Developer with 2+ years in designing and implementing dynamic web-based applications.
-- Proficient in React, JavaScript, SQL, Express, RESTful APIs.
+- Proficient in HTML, CSS/SASS, React, JavaScript, SQL, Express, RESTful APIs.
+- View my portfolio website [here](https://supreet-kaur.netlify.app/) which serves as a curated collection of my Web Development projects.
 
 ### Languages and Tools:
 
