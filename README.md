@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Supreet Kaur! 
+# Hi! 👋 I'm Supreet Kaur!
 
 <!-- <img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/github.gif?raw=true" alt="female developer" > -->
 
@@ -7,9 +7,10 @@
 ### About me:
 
 - An Electronics and Telecommunication Engineer turned Software Developer. 👩‍💻
-- Experienced Software Developer with 2+ years in designing and implementing dynamic web-based applications.
+- Experienced Software Developer with 4+ years in designing and implementing dynamic web-based applications.
 - Proficient in HTML, CSS/SASS, React, JavaScript, SQL, Express, RESTful APIs.
 - View my portfolio website [here](https://supreet-kaur.netlify.app/) which serves as a curated collection of my Web Development projects.
+- Download my resume [here](https://drive.google.com/file/d/18nbYNKjhrVyBBOx_44Xxxo0RmTrM3cML/view).
 
 ### Languages and Tools:
 
