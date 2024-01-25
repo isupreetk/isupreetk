@@ -12,7 +12,7 @@
 - View my portfolio website
   <a href="https://supreet-kaur.netlify.app/" target="_blank" rel="noopener">here</a>
   which serves as a curated collection of my Web Development projects.
-- Download my resume
+- View my resume
   <a href="https://drive.google.com/file/d/1EqB7u-piO0U3hdtTWZn1ChzsatePt_BQ/view?usp=sharing" target="_blank" rel="noopener">here</a>.
 
 ### Languages and Tools:
