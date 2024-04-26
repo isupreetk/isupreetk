@@ -6,8 +6,8 @@
 
 ### About me:
 
-- An Electronics and Telecommunication Engineer turned Software Developer. 👩‍💻
-- Experienced Software Developer with 4+ years in designing and implementing dynamic and responsive web-based applications.
+- An Electronics and Telecommunication Engineer turned Front-End Software Developer. 👩‍💻
+- Experienced Software Developer with 3+ years in designing and implementing dynamic and responsive web-based applications.
 - Proficient in HTML, CSS/SASS, React, JavaScript, SQL, Express, RESTful APIs.
 - View my portfolio website
   <a href="https://supreet-kaur.netlify.app/" target="_blank" rel="noopener">here</a>
@@ -63,12 +63,9 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
-    <!-- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
     </a>     
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-    </a>  -->
 </p>
     
 ### Connect with me:
