@@ -13,7 +13,7 @@
   <a href="https://supreet-kaur.netlify.app/" target="_blank" rel="noopener">here</a>
   which serves as a curated collection of my Web Development projects.
 - View my resume
-  <a href="https://drive.google.com/file/d/1EqB7u-piO0U3hdtTWZn1ChzsatePt_BQ/view?usp=sharing" target="_blank" rel="noopener">here</a>.
+  <a href="https://drive.google.com/file/d/1vB2gmlw1S0hWUXC3VYCIAvJMnLIR8vk3/view?usp=sharing" target="_blank" rel="noopener">here</a>.
 
 ### Languages and Tools:
 
