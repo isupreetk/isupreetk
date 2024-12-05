@@ -7,13 +7,13 @@
 ### About me:
 
 - An Electronics and Telecommunication Engineer turned Front-End Software Developer. 👩‍💻
-- Experienced Software Developer with 3+ years in designing and implementing dynamic and responsive web-based applications.
+- Experienced Software Developer with 4+ years in designing and implementing dynamic and responsive web-based applications.
 - Proficient in React, Redux Toolkit, JavaScript, TypeScript, SQL, Express, RESTful APIs.
 - View my portfolio website
   <a href="https://supreet-kaur.netlify.app/" target="_blank" rel="noopener">here</a>
   which serves as a curated collection of my Web Development projects.
 - View my resume
-  <a href="https://drive.google.com/file/d/1vB2gmlw1S0hWUXC3VYCIAvJMnLIR8vk3/view?usp=sharing" target="_blank" rel="noopener">here</a>.
+  <a href="https://drive.google.com/file/d/1bK74bTogOiSYNHtOC0ysSTJMiFZrYDer/view?usp=sharing" target="_blank" rel="noopener">here</a>.
 
 ### Languages and Tools:
 
