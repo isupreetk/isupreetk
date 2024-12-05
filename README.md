@@ -2,7 +2,7 @@
 
 <img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/github.gif?raw=true" alt="female developer" >
 
-<img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/linkedin_banner.png?raw=true" alt="supreet - software developer" >
+<!-- <img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/linkedin_banner.png?raw=true" alt="supreet - software developer" > -->
 
 ### About me:
 
@@ -81,8 +81,8 @@
 <a href="https://www.leetcode.com/supreet97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supreet97" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isupreetk&show_icons=true&locale=en&layout=compact" alt="isupreetk" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isupreetk&show_icons=true&locale=en&layout=compact" alt="isupreetk" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isupreetk&show_icons=true&locale=en" alt="isupreetk" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isupreetk&show_icons=true&locale=en" alt="isupreetk" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isupreetk&" alt="isupreetk" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isupreetk&" alt="isupreetk" /></p>  -->
