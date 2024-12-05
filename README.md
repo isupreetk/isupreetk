@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Supreet Kaur!
 
-<!-- <img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/github.gif?raw=true" alt="female developer" > -->
+<img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/github.gif?raw=true" alt="female developer" >
 
 <img src="https://github.com/isupreetk/isupreetk/blob/main/assets/screenshots/linkedin_banner.png?raw=true" alt="supreet - software developer" >
 
@@ -8,7 +8,7 @@
 
 - An Electronics and Telecommunication Engineer turned Front-End Software Developer. 👩‍💻
 - Experienced Software Developer with 3+ years in designing and implementing dynamic and responsive web-based applications.
-- Proficient in HTML, CSS/SASS, React, JavaScript, SQL, Express, RESTful APIs.
+- Proficient in React, Redux Toolkit, JavaScript, TypeScript, SQL, Express, RESTful APIs.
 - View my portfolio website
   <a href="https://supreet-kaur.netlify.app/" target="_blank" rel="noopener">here</a>
   which serves as a curated collection of my Web Development projects.
@@ -36,6 +36,9 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
+    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux toolkit" width="40" height="40"/> 
+    </a>   
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
@@ -65,7 +68,10 @@
     </a> 
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-    </a>     
+    </a>   
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a>   
 </p>
     
 ### Connect with me:
@@ -75,8 +81,8 @@
 <a href="https://www.leetcode.com/supreet97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supreet97" height="30" width="40" /></a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isupreetk&show_icons=true&locale=en&layout=compact" alt="isupreetk" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isupreetk&show_icons=true&locale=en&layout=compact" alt="isupreetk" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isupreetk&show_icons=true&locale=en" alt="isupreetk" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isupreetk&show_icons=true&locale=en" alt="isupreetk" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isupreetk&" alt="isupreetk" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isupreetk&" alt="isupreetk" /></p>
